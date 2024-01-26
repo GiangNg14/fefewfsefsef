@@ -41,10 +41,10 @@ export default function Description(){
             </div>
             <div className='grid grid-cols-10 mt-20'>
                 <div className='col-span-3'></div>
-                <a href="https://web.facebook.com/tonthuog1/"><img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/></a>
-                <a href="#"><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/></a>
-                <a href="https://www.youtube.com/channel/UCwjJKXVvyN0TUTSuYCMD1lw"><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/></a>
-                <a href="https://www.instagram.com/t0nthu0ng1/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
+               <img width="48" height="48" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook-new"/>
+                <img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/>
+               <img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/>
+               <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
                 <div className='col-span-3'></div>
             </div>
             <div><h3 className='text-center mt-5'>Thanks and best regards</h3></div>
